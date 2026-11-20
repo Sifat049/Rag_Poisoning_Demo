@@ -1,0 +1,9 @@
+numpy
+scikit-learn
+pandas
+matplotlib
+
+# Optional: only needed for the real LLM / neural embedding options
+# transformers
+# torch
+# sentence-transformers
