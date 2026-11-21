@@ -3,7 +3,7 @@
 A small, runnable demo that shows **how one wrong document in a RAG knowledge base can change an AI assistant's answer**, and how a simple defense can (and cannot) stop it. The example domain is **citizen services** (fees, helpline numbers, tuition fee) in **English, Bangla and Banglish** (Bangla written in English letters).
 
 > Part of our FYDP 1 exploration: data poisoning in multilingual RAG systems.
-> Author: `<your name>` &nbsp;|&nbsp; Course: `CSE FYDP 1` &nbsp;|&nbsp; Supervisor: `<supervisor name>`
+> Author: `Md.Mishkatul Bary` &nbsp;|&nbsp; Course: `CSE FYDP 1` &nbsp;|&nbsp; Supervisor: ` Dr Nahid Ferdous Aurna`
 
 ## ⚠️ All data is synthetic
 
